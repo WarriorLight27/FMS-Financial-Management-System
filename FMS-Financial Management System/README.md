@@ -4,7 +4,7 @@
 
 ## Project Description:
 
-    The Expense Management System is a web-based application designed to assist users in tracking and managing their daily expenses. This system is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a scalable, responsive, and user-friendly application.
+    The FMS-Financial Management System is a web-based application designed to assist users in tracking and managing their daily expenses. This system is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a scalable, responsive, and user-friendly application.
 
 ## Objectives:
 
@@ -75,13 +75,14 @@ Support attaching receipts or other relevant documents to expense entries.
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+  git clone https://github.com/WarriorLight27
+FMS-Financial-Management-System
 ```
 
 Go to the project directory
 
 ```bash
-  cd Expense-Tracker-App
+  cd FMS-Financial Management System
 ```
 
 Go to the frontend directory and Install dependencies
